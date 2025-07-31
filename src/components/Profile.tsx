@@ -8,7 +8,7 @@ import Typewriter from './TypeWriter'
 import SparklyText from './SparklyText'
 
 export default function Profile() {
-  const typewriterWords = ['Programming', 'Social Engineering', 'Freelancing']
+  const typewriterWords = ['Fraud', 'Cybersecurity']
   const typewriterSpeed = 150
 
   return (
