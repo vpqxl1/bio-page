@@ -23,7 +23,7 @@ export default function Profile() {
           <div className="flex flex-col">
             <div className="flex flex-row space-x-2 justify-center items-center">
               <SparklyText
-                value="shyzophr3nia"
+                value="vpqxl"
                 classnames="text-4xl"
               ></SparklyText>
               <GlowingIcon icon={faGem} />
@@ -31,18 +31,18 @@ export default function Profile() {
             <span className="text-2xl">
               <Typewriter speed={typewriterSpeed} words={typewriterWords} />
             </span>
-            <p className="opacity-80">shyzophr3nia.me</p>
+            <p className="opacity-80">t.me/vpqxl</p>
           </div>
         </div>
         <div className="w-full py-1 rounded-full bg-black opacity-25" />
         <div className="flex flex-row space-x-4 text-lg justify-center items-center w-full">
           <GlowingIcon
-            link="https://cracked.io/shyzophr3nia"
+            link="https://cracked.sh/vpqxl"
             icon={faShieldHalved}
             tooltip="Cracked.io"
           />
           <GlowingIcon
-            link="https://github.com/shyzophr3nia"
+            link="https://github.com/vpqxl1"
             icon={faCode}
             tooltip="GitHub"
           />
