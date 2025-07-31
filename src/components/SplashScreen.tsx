@@ -9,7 +9,7 @@ const SplashScreen = ({ onStart }: { onStart: () => void }) => {
       onClick={onStart}
     >
       <div className="flex flex-col justify-center items-center">
-        <h1 className="text-white text-3xl bg-clip-text">shyzophr3nia</h1>
+        <h1 className="text-white text-3xl bg-clip-text">vpqxl</h1>
         <SparklyText value="click anywhere" classnames="text-lg" />
       </div>
     </div>
